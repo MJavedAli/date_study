@@ -21,10 +21,20 @@ Number 2: Rasoolullah ﷺ was born on Monday
 
 Note: There is no difference of opinion about Rasoolullah ﷺ performing the last Hajj in 10 AH and being passing away in 11 AH
 
-Hadith : Umar ibn al-Khattab reported: A man from the Jews said, “O leader of the believers, there is a verse you recite in your book and, had it been revealed to us as Jews, we would have taken that day as a celebration.” Umar said, “Which verse is it?” The man recited the verse, “Today I have completed your religion for you, perfected My favor upon you, and have chosen Islam as your religion.” (5:3)
+Hadith 1 : Umar ibn al-Khattab reported: A man from the Jews said, “O leader of the believers, there is a verse you recite in your book and, had it been revealed to us as Jews, we would have taken that day as a celebration.” Umar said, “Which verse is it?” The man recited the verse, “Today I have completed your religion for you, perfected My favor upon you, and have chosen Islam as your religion.” (5:3)
 
 Umar said, “I know the day and place in which this verse was revealed to the Prophet, peace and blessings be upon him. It was while he was standing on the day of Arafat on Friday.”
 
 Source: Ṣaḥīḥ al-Bukhārī 45, Ṣaḥīḥ Muslim 3017
 
+Narrated Anas bin Malik:
+
+Hadith 2 : While Abu Bakr was leading the people in the morning prayer on a Monday, the Prophet came towards them suddenly having lifted the curtain of 'Aisha's house, and looked at them as they were standing in rows and smiled. Abu Bakr tried to come back thinking that Allah's Apostle wanted to come out for the prayer. The attention of the Muslims was diverted from the prayer because they were delighted to see the Prophet. The Prophet waved his hand to them to complete their prayer, then he went back into the room and let down the curtain. The Prophet expired on that very day.
+
+Source: Ṣaḥīḥ al-Bukhārī 1136
+
+## Proofs
+Analyzing dates from 9 Dhul Hijjah of 10 AH (Friday) to 12 Rabi ul Awwal that include 4 months the below table shows all permutations of dates :
+
+![image](https://user-images.githubusercontent.com/30997178/205486647-355240e7-7733-4d02-b4ed-1849f48f85da.png)
 
