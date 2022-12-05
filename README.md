@@ -17,7 +17,7 @@ Let us first of all examine these historical facts in the light of 2 famous hadi
 
 Number 1: 9th Dhul Hijjah i.e. on the 9th day (Day of Arafah) was the day of Friday.
 
-Number 2: Rasoolullah ﷺ was born on Monday
+Number 2: Rasoolullah ﷺ was passed away on Monday
 
 Note: There is no difference of opinion about Rasoolullah ﷺ performing the last Hajj in 10 AH and being passing away in 11 AH
 
@@ -35,6 +35,6 @@ Source: Ṣaḥīḥ al-Bukhārī 1136
 
 ## Proofs
 Analyzing dates from 9 Dhul Hijjah of 10 AH (Friday) to 12 Rabi ul Awwal that include 4 months the below table shows all permutations of dates :
-
-![image](https://user-images.githubusercontent.com/30997178/205486647-355240e7-7733-4d02-b4ed-1849f48f85da.png)
+	
+![image](https://user-images.githubusercontent.com/30997178/205539080-e454fb52-d861-4e3b-be36-2a809deb117a.png)
 
